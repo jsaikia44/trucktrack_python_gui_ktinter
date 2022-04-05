@@ -1,5 +1,5 @@
-# trucktrack
-A simple python gui based app for automatic announcement.
+# **trucktrack**
+## A simple python gui based app for automatic announcement.
 Description
 Announcement system - to give instruction to truck the move the certain gate.
 GUI is made using Ktinter. It is having two input field. 
