@@ -8,4 +8,7 @@ The inputs can be given by two ways.
 ---> Manually entry of these two fields.                 
 ---> Search for .txt file containing these to inputs.                
      This .txt file is generated automatically from another program.               
-We can use pyinstaller library to convert it to .exe file.
+We can use pyinstaller library to convert it to .exe file.      
+
+##library used:---             
+ktinter, pyttsx3
