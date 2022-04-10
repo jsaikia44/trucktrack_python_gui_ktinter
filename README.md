@@ -1,4 +1,4 @@
-# **trucktrack**
+# **tracktruck**
 ## A simple python gui based app for automatic announcement.
 Description
 Announcement system - to give instruction to truck the move the certain gate.               
@@ -12,3 +12,4 @@ We can use pyinstaller library to convert it to .exe file.
 
 ## library used:               
 ktinter, pyttsx3
+![alt text](https://github.com/jsaikia44/trucktrack_python_gui_ktinter/blob/main/tracktruck.jpg?raw=true)
