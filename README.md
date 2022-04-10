@@ -11,5 +11,7 @@ The inputs can be given by two ways.
 We can use pyinstaller library to convert it to .exe file.      
 
 ## library used:               
-ktinter, pyttsx3
+ktinter, pyttsx3       
+        
+The UI is shown below:       
 ![alt text](https://github.com/jsaikia44/trucktrack_python_gui_ktinter/blob/main/tracktruck.jpg?raw=true)
