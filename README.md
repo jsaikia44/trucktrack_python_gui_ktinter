@@ -10,5 +10,5 @@ The inputs can be given by two ways.
      This .txt file is generated automatically from another program.               
 We can use pyinstaller library to convert it to .exe file.      
 
-##library used:---             
+## library used:               
 ktinter, pyttsx3
